@@ -1,0 +1,4 @@
+*.pyd
+*.pyc
+C++/build
+C#/demo/bin

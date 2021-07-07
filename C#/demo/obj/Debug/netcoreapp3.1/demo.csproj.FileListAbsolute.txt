@@ -1,0 +1,13 @@
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.exe
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.dll
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\bin\Debug\netcoreapp3.1\demo.pdb
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.dll
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.pdb
+D:\code\AISDetector-Interface\SharedMemoryDemo\C#\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
